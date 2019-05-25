@@ -9,6 +9,7 @@ void testfunction()
 <<<<<<< HEAD
 	printf("sox")
 =======
+    printf("nomad Dead!!!!!!!!!!")
 
 >>>>>>> c6ee45e1af6adc48c761af84c63cfd82928e4367
 }
